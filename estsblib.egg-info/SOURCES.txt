@@ -1,0 +1,11 @@
+setup.py
+estsblib/__init__.py
+estsblib/info.py
+estsblib.egg-info/PKG-INFO
+estsblib.egg-info/SOURCES.txt
+estsblib.egg-info/dependency_links.txt
+estsblib.egg-info/not-zip-safe
+estsblib.egg-info/top_level.txt
+estsblib/cstc/__init__.py
+estsblib/cstc/course.py
+estsblib/cstc/python.py
